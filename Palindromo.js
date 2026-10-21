@@ -3,4 +3,4 @@ function verificaPalindromo(string) {
 
     string.split("").reverse().join("") === string;
 }
-console.log(verificaPalindromo("ovo"));
+console.log(verificaPalindromo("ovo"));node no
