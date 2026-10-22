@@ -1,8 +1,6 @@
 
 # Variáveis e Tipos - Javascript (DIO)
 
-# Comparador de Números - Desafio DIO
-
 Neste repositório, você encontrará a minha resolução para as atividades práticas propostas no curso de **"Variáveis e Tipos"** do basecamp de JavaScript.
 
 O objetvo deste módulo foi consolidar o entendimento sobre a manipulação de string, array, operadores lógicos e estruturas de repetição em JavaScript, além de praticar a execução de scripts diretamente pelo terminal **Bash**.
@@ -30,5 +28,5 @@ O desafio consistia em validar se uma determinada string era um palíndromo (fra
 
 ## Ativodade 2: Substituidor de Números Pares
 
-Uma função que recebe a array de número e substitui todos os elemnetos  que sejam pares e diferentes de zero pelo nímero `0`. 
+Uma função que recebe a array de número e substitui todos os elemnetos  que sejam pares e diferentes de zero pelo número `0`. 
 * Caso o array recebido seja vazio ou enexistente, a função retorna `-1`.
