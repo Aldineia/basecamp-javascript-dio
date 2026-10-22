@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # operadores
-=======
+
 # Comparador de Números - Desafio DIO
 
 Este repositório contém a solução para o desafio de projeto de JavaScript do curso de desenvolvimento da **DIO (Digital Innovation One)**.
