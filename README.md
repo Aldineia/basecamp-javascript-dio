@@ -19,4 +19,4 @@ O objetivo da atividade é criar uma função em JavaScript que recebe dois núm
 * **JavaScript** (Node.js)
 * **VS Code** (Editor de código)
 * **Git e GitHub** (Controle de versão)
->>>>>>> e3768fce3a9c303b7fc09d2962f90bfa8d99dd7d
+
