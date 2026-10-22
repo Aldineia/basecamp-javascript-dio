@@ -5,10 +5,8 @@ function verificaPalindromo(string){
     return string.split("").reverse().join("") === string;
 
 }
-console.log(verificaPalindromo("gato"))
 
 //Solução 2
-
 function verificaPalindromo2(string){
     if (!string) return "string inexistente";
 
@@ -21,3 +19,7 @@ function verificaPalindromo2(string){
 return true;
 }
 console.log(verificaPalindromo2("gato"));
+
+
+
+

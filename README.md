@@ -1,4 +1,10 @@
+
 # Variáveis e Tipos - Javascript (DIO)
+=======
+
+# operadores
+
+# Comparador de Números - Desafio DIO
 
 Neste repositório, você encontrará a minha resolução para as atividades práticas propostas no curso de **"Variáveis e Tipos"** do basecamp de JavaScript.
 
@@ -7,6 +13,7 @@ O objetvo deste módulo foi consolidar o entendimento sobre a manipulação de s
 ---
 
 ## Tecnologias Utilizadas
+<<<<<<< HEAD
 
 * **JavaScript (ES6+)**
 * **Node.js** (para execução local dos scripts)
@@ -29,5 +36,3 @@ O desafio consistia em validar se uma determinada string era um palíndromo (fra
 
 Uma função que recebe a array de número e substitui todos os elemnetos  que sejam pares e diferentes de zero pelo nímero `0`. 
 * Caso o array recebido seja vazio ou enexistente, a função retorna `-1`.
-
-
