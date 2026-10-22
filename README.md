@@ -1,8 +1,5 @@
 
 # Variáveis e Tipos - Javascript (DIO)
-=======
-
-# operadores
 
 # Comparador de Números - Desafio DIO
 
@@ -13,7 +10,6 @@ O objetvo deste módulo foi consolidar o entendimento sobre a manipulação de s
 ---
 
 ## Tecnologias Utilizadas
-<<<<<<< HEAD
 
 * **JavaScript (ES6+)**
 * **Node.js** (para execução local dos scripts)
